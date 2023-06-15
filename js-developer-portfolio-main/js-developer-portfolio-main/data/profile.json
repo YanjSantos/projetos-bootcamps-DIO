@@ -1,0 +1,95 @@
+{
+  "name": "Anderson Santos",
+  "photo": "https://raw.githubusercontent.com/YanjSantos/js-developer-portfolio/main/assets/img/my-photo2.png",
+  "job": "Desenvolvedor Java",
+  "location": "Maceió-AL",
+  "phone": "(82) 99124-9632",
+  "email": "anderson_jds@hotmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/YanjSantos/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "CSharp",
+        "logo": "https://raw.githubusercontent.com/YanjSantos/js-developer-portfolio/main/data/imgs/csharp.png"
+      },    
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/YanjSantos/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "SpringBoot",
+        "logo": "https://raw.githubusercontent.com/YanjSantos/js-developer-portfolio/main/data/imgs/springboot.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/YanjSantos/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/YanjSantos/js-developer-portfolio/main/data/imgs/mongodb.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/YanjSantos/js-developer-portfolio/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (iniciante)"
+  ],
+  "portfolio": [
+    {
+      "name": "Projeto Spring Data JPA - academia digital",
+      "url": "https://github.com/YanjSantos/academia-digital.git",
+      "github": true
+    },
+    {
+      "name": "Projeto de e-commerce com SpringBoot e Kafka.",
+      "url": "https://github.com/YanjSantos/ecommerce-check-and-pay.git",
+      "github": true
+    },
+    {
+      "name": "Lista de tarefas C# - API e Entity Framework",
+      "url": "https://github.com/YanjSantos/trilha-net-api-desafio.git",
+      "github": true
+    },
+    {
+      "name": "API REST de pedidos com documentação swagger",
+      "url": "git@gitlab.com:YanjSantos/tech-test-payment-api.git",
+      "github": true
+    },
+    {
+      "name": "API REST de pedidos com documentação swagger",
+      "url": "git@gitlab.com:YanjSantos/tech-test-payment-api.git",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Propagandista Vendedor / Aché Laboratórios Farmcêuticos",
+      "period": "fevereiro de 2020 – dezembro de 2021",
+      "description": "Propaganda de linha de medicamentos a médicos e venda de medicamentos a PDV's."
+    },
+    {
+      "name": "Vendedor Externo / M.A.F. Rolleri Tintas EPP",
+      "period": "julho de 2018 – janeiro de 2020",
+      "description": "Venda de materiais de acabamento à arquitetos e engenheiros; orçamento de vendas e projetos."
+    },
+    {
+      "name": "Analista Comercial / Ibratin Tintas e Texturas",
+      "period": "novembro de 2016 – junho de 2018",
+      "description": "Análise de indicadores; planejamento estratégico; treinamento de equipes; relatórios gerenciais."
+    }
+  ]
+}

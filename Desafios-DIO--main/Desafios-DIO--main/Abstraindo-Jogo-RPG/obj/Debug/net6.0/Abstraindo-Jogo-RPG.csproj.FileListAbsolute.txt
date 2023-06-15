@@ -1,0 +1,15 @@
+D:\Workspace\Desafios-DIO-\Abstraindo-Jogo-RPG\bin\Debug\net6.0\Abstraindo-Jogo-RPG.exe
+D:\Workspace\Desafios-DIO-\Abstraindo-Jogo-RPG\bin\Debug\net6.0\Abstraindo-Jogo-RPG.deps.json
+D:\Workspace\Desafios-DIO-\Abstraindo-Jogo-RPG\bin\Debug\net6.0\Abstraindo-Jogo-RPG.runtimeconfig.json
+D:\Workspace\Desafios-DIO-\Abstraindo-Jogo-RPG\bin\Debug\net6.0\Abstraindo-Jogo-RPG.dll
+D:\Workspace\Desafios-DIO-\Abstraindo-Jogo-RPG\bin\Debug\net6.0\Abstraindo-Jogo-RPG.pdb
+D:\Workspace\Desafios-DIO-\Abstraindo-Jogo-RPG\obj\Debug\net6.0\Abstraindo-Jogo-RPG.csproj.AssemblyReference.cache
+D:\Workspace\Desafios-DIO-\Abstraindo-Jogo-RPG\obj\Debug\net6.0\Abstraindo-Jogo-RPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Desafios-DIO-\Abstraindo-Jogo-RPG\obj\Debug\net6.0\Abstraindo-Jogo-RPG.AssemblyInfoInputs.cache
+D:\Workspace\Desafios-DIO-\Abstraindo-Jogo-RPG\obj\Debug\net6.0\Abstraindo-Jogo-RPG.AssemblyInfo.cs
+D:\Workspace\Desafios-DIO-\Abstraindo-Jogo-RPG\obj\Debug\net6.0\Abstraindo-Jogo-RPG.csproj.CoreCompileInputs.cache
+D:\Workspace\Desafios-DIO-\Abstraindo-Jogo-RPG\obj\Debug\net6.0\Abstraindo-Jogo-RPG.dll
+D:\Workspace\Desafios-DIO-\Abstraindo-Jogo-RPG\obj\Debug\net6.0\refint\Abstraindo-Jogo-RPG.dll
+D:\Workspace\Desafios-DIO-\Abstraindo-Jogo-RPG\obj\Debug\net6.0\Abstraindo-Jogo-RPG.pdb
+D:\Workspace\Desafios-DIO-\Abstraindo-Jogo-RPG\obj\Debug\net6.0\Abstraindo-Jogo-RPG.genruntimeconfig.cache
+D:\Workspace\Desafios-DIO-\Abstraindo-Jogo-RPG\obj\Debug\net6.0\ref\Abstraindo-Jogo-RPG.dll

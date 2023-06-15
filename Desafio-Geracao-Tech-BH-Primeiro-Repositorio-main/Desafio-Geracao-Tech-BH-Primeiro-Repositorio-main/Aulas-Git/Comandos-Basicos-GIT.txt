@@ -1,0 +1,8 @@
+
+Comandos Basicos GIT:
+
+dir: lista diretorios da pasta
+ls: lista arquivos da pasta
+cd "nome pasta": acessa a pasta especificada
+cd ..: retorna para a pasta anterior
+CTL + l: limpa a area de trabalho do Git Bash

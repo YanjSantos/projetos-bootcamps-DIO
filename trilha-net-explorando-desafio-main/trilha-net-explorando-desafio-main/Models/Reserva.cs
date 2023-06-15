@@ -1,0 +1,70 @@
+namespace DesafioProjetoHospedagem.Models
+{
+    public class Reserva
+    {
+        public List<Pessoa> Hospedes { get; set; }
+        public Suite Suite { get; set; }
+        public int DiasReservados { get; set; }
+
+        public Reserva(){}
+
+        public Reserva(int diasReservados)
+        {
+            DiasReservados = diasReservados;
+        }
+
+        public void CadastrarHospedes(List<Pessoa> hospedes)
+        {
+            // TODO: Verificar se a capacidade é maior ou igual ao número de hóspedes sendo recebido
+            // OK - IMPLEMENTADO!!!
+
+            if (Suite.Capacidade >= hospedes.Count) 
+            {
+                Hospedes = hospedes;
+            }
+            else
+            {
+                // TODO: Retornar uma exception caso a capacidade seja menor que o número de hóspedes recebido
+                // OK - IMPLEMENTADO!!!
+                throw new Exception ("A quantidade de hóspedes é maior que a capacidade da suíte. Favor verificar outra acomodação.");
+            
+
+            }
+        }
+
+        public void CadastrarSuite(Suite suite)
+        {
+            Suite = suite;
+        }
+
+        public int ObterQuantidadeHospedes()
+        {
+            // TODO: Retorna a quantidade de hóspedes (propriedade Hospedes)
+            // OK - IMPLEMENTADO!!!
+           
+            return (Hospedes.Count);
+
+        }
+
+        public decimal CalcularValorDiaria()
+        {
+            // TODO: Retorna o valor da diária
+            // Cálculo: DiasReservados X Suite.ValorDiaria
+            // OK - IMPLEMENTADO!!!
+           
+            decimal valor = DiasReservados * Suite.ValorDiaria;
+           
+            // Regra: Caso os dias reservados forem maior ou igual a 10, conceder um desconto de 10%
+           // OK - IMPLEMENTADO!!!
+            if (DiasReservados>=10)
+            {
+                
+                double valorComDesconto = (Convert.ToDouble(valor) * 0.90);
+                return Convert.ToDecimal(valorComDesconto);
+
+            }
+
+            return valor;
+        }
+    }
+}
