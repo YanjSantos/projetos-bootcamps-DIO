@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2560"
+   height="1964"
+   viewBox="0 0 2560 1964"
+   fill="none"
+   version="1.1"
+   id="svg249"
+   sodipodi:docname="background2.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview251"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.13995495"
+     inkscape:cx="89.314455"
+     inkscape:cy="1278.983"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g238" />
+  <g
+     filter="url(#filter0_f_835_19)"
+     id="g238"
+     transform="translate(-550.17704,-214.35469)">
+    <rect
+       width="235.95799"
+       height="1328.39"
+       transform="matrix(-0.833501,0.552519,0.547264,0.83696,916.707,-1052.28)"
+       fill="#8c35ec"
+       id="rect220"
+       x="0"
+       y="0"
+       style="fill:#00aad4" />
+    <rect
+       width="235.95799"
+       height="1328.39"
+       transform="matrix(-0.833501,0.552519,0.547264,0.83696,720.036,-921.907)"
+       fill="#bb44f0"
+       id="rect222"
+       x="0"
+       y="0"
+       style="fill:#00aad4" />
+    <rect
+       width="235.95799"
+       height="1328.39"
+       transform="matrix(-0.833501,0.552519,0.547264,0.83696,523.366,-791.536)"
+       fill="#e554f3"
+       id="rect224"
+       x="0"
+       y="0"
+       style="fill:#00aad4" />
+    <rect
+       width="235.95799"
+       height="1328.39"
+       transform="matrix(-0.833501,0.552519,0.547264,0.83696,326.696,-661.165)"
+       fill="#f664e4"
+       id="rect226"
+       x="0"
+       y="0"
+       style="fill:#00aad4" />
+    <rect
+       width="235.95799"
+       height="1328.39"
+       transform="matrix(-0.833501,0.552519,0.547264,0.83696,130.026,-530.794)"
+       fill="#f974cc"
+       id="rect228"
+       x="0"
+       y="0"
+       style="fill:#00aad4" />
+    <rect
+       width="235.95799"
+       height="1328.39"
+       transform="matrix(-0.833501,0.552519,0.547264,0.83696,-66.6465,-400.423)"
+       fill="#fb85b9"
+       id="rect230"
+       x="0"
+       y="0"
+       style="fill:#00aad4" />
+    <rect
+       width="235.95799"
+       height="1328.39"
+       transform="matrix(-0.833501,0.552519,0.547264,0.83696,-263.317,-270.052)"
+       fill="#fd97ae"
+       id="rect232"
+       x="0"
+       y="0"
+       style="fill:#00aad4" />
+    <rect
+       width="235.95799"
+       height="1328.39"
+       transform="matrix(-0.833501,0.552519,0.547264,0.83696,-459.987,-139.681)"
+       fill="#fea9aa"
+       id="rect234"
+       x="0"
+       y="0"
+       style="fill:#00aad4" />
+    <rect
+       width="235.95799"
+       height="1328.39"
+       transform="matrix(-0.833501,0.552519,0.547264,0.83696,-656.658,-9.3103)"
+       fill="#ffc9bb"
+       id="rect236"
+       x="0"
+       y="0"
+       style="fill:#00aad4" />
+  </g>
+  <defs
+     id="defs247">
+    <filter
+       id="filter0_f_835_19"
+       x="-1650"
+       y="-2173.76"
+       width="4680.37"
+       height="4137"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood240" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="BackgroundImageFix"
+         result="shape"
+         id="feBlend242" />
+      <feGaussianBlur
+         stdDeviation="300"
+         result="effect1_foregroundBlur_835_19"
+         id="feGaussianBlur244" />
+    </filter>
+  </defs>
+</svg>
